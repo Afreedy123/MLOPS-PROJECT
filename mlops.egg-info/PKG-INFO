@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: mlops
+Version: 0.1
+Summary: MLOPS PROJECT
+Author: Shahid
+Author-email: abc@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: setuptools
+Requires-Dist: mysql-connector-python
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

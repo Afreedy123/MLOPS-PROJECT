@@ -1,0 +1,22 @@
+2025-03-12 15:46:03,299 - INFO - Starting main program
+2025-03-12 15:46:03,299 - ERROR - Error Occured
+2025-03-12 15:46:03,299 - ERROR - Error in E:\Project_MLOPS\testing.py , line 9 : Division by zero
+2025-03-12 15:46:03,299 - INFO - end of program
+2025-03-12 15:46:50,091 - INFO - Starting main program
+2025-03-12 15:46:50,091 - ERROR - Error Occured
+2025-03-12 15:46:50,091 - ERROR - Error in E:\Project_MLOPS\testing.py , line 9 : Division by zero
+2025-03-12 15:46:50,091 - INFO - end of program
+2025-03-12 15:57:25,350 - INFO - Your Databse configuration has been set up
+2025-03-12 16:01:21,852 - INFO - Your Databse configuration has been set up
+2025-03-12 16:08:17,564 - INFO - Your Databse configuration has been set up
+2025-03-12 16:15:04,878 - INFO - Your Databse configuration has been set up
+2025-03-12 22:01:23,118 - INFO - Your Databse configuration has been set up
+2025-03-12 22:11:44,472 - INFO - Your Databse configuration has been set up
+2025-03-12 22:12:30,014 - INFO - Your Databse configuration has been set up
+2025-03-12 22:18:31,882 - INFO - Your Databse configuration has been set up
+2025-03-12 22:28:20,938 - INFO - __main__ - Your Databse configuration has been set up
+2025-03-12 22:42:19,447 - INFO - __main__ - Your Databse configuration has been set up
+2025-03-12 22:43:30,522 - INFO - __main__ - Your Databse configuration has been set up
+2025-03-12 22:45:52,197 - INFO - __main__ - Your Databse configuration has been set up
+2025-03-12 23:07:42,675 - INFO - __main__ - Your Databse configuration has been set up
+2025-03-12 23:33:11,333 - INFO - __main__ - Your Databse configuration has been set up
